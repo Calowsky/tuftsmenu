@@ -1,0 +1,22 @@
+{
+  "name": "tuftsdining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process.js",
+  "scripts": {
+  "start": "node process.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
+© 2021 GitHub, Inc.
